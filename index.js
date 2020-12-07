@@ -46,7 +46,3 @@ class Square extends Polygon {
         }
     }
 }
-
-
-// for ( let i = 0; i < array.length; i++ ) {
-//     this[`side${i}`] = array[i];
